@@ -5,3 +5,13 @@ Sites para desenvolver Wireframes
  - MockFlow: https://www.mockflow.com/ (Grátis para até 1 projeto)
  - Wireframe: https://wireframe.cc/ (Gratuito)
  - Moqups: https://moqups.com/ (Pago - Recomendado pelo Instrutor)
+
+
+Lorem Ipsum
+
+ - https://br.lipsum.com/feed/html
+
+
+Ícones gratuitos
+
+ - https://www.flaticon.com/
